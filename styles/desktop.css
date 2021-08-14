@@ -1,3 +1,9 @@
+html {
+  font-size: 80%;
+}
 main {
   background-image: url("../images/pattern-background-desktop.svg");
+}
+.component-ctn {
+  max-width: 380px;
 }
