@@ -33,7 +33,7 @@ Mobile:
 
 Desktop:
 
-![desktop](https://user-images.githubusercontent.com/70554280/129461753-e0b4e383-f334-4d3f-ad13-9c7c04d8ee4a.png)
+![desktop](https://user-images.githubusercontent.com/70554280/129494010-14493556-2123-4c75-a584-10a6823e2284.png)
 
 
 ### Links
