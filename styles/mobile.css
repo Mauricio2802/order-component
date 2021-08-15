@@ -148,10 +148,12 @@ main {
   background: none;
 }
 
+footer {
+  background-color: var(--pale-blue);
+  display: flex;
+  justify-content: center;
+}
 .attribution {
-  position: absolute;
-  bottom: 5px;
-  left: calc(50% - 170px);
   font-size: 1.4rem;
   font-family: var(--primary-font);
 }
