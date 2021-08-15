@@ -18,9 +18,11 @@ html {
   --primary-font: "Red Hat Display", sans-serif;
 }
 
+body {
+  background-color: var(--pale-blue);
+}
 main {
   width: 100vw;
-  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,6 +40,7 @@ main {
   border-radius: 20px;
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+  margin-bottom: 20px;
 }
 
 .component__img {
