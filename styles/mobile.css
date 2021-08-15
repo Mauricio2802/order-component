@@ -154,9 +154,6 @@ main {
 .attribution {
   font-size: 1.4rem;
   font-family: var(--primary-font);
-
-  position: relative;
-  top: -5px;
 }
 
 a {
