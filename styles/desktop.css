@@ -2,6 +2,7 @@ html {
   font-size: 80%;
 }
 main {
+  height: 100vh;
   background-image: url("../images/pattern-background-desktop.svg");
 }
 .component-ctn {
